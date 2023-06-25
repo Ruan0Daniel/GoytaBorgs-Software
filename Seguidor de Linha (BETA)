@@ -16,9 +16,7 @@ void setup ()
   pinMode(13, OUTPUT);
   
   digitalWrite(5, LOW);
-  digitalWrite(4, LOW);
   digitalWrite(3, LOW);
-  digitalWrite(2, LOW);
   digitalWrite(11, HIGH); //HABILITA MOTORES
 
 }//FECHA SETUP
